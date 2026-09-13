@@ -19,7 +19,7 @@ public class Test {
         int n = 10;
 
         printFibonacci(n);
-		System.out.println(Janardhan branch code);
+		System.out.println(Janardhan branch code 1);
     }
 
 }
